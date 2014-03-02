@@ -1,6 +1,6 @@
 require 'test_helper'
 
-class BetausersTest < ActiveSupport::TestCase
+class BetauserTest < ActiveSupport::TestCase
   # test "the truth" do
   #   assert true
   # end
